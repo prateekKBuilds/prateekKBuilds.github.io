@@ -6,7 +6,7 @@ Live at: [https://prateekKBuilds.github.io](https://prateekKBuilds.github.io)
 
 ---
 
-## 👋 About
+##  About
 
 This repository hosts my personal portfolio built with **HTML, CSS, and JavaScript**, deployed using **GitHub Pages**.
 
@@ -20,23 +20,23 @@ The site is intentionally simple, fast, and framework-free.
 
 ---
 
-## 🧩 Ventures
+##  Ventures
 
-### 🏫 MindTinkers (Schools)
+###  MindTinkers (Schools)
 
 Hands-on STEM learning through electronics, experiments, and creative problem-solving.
 
-### 🎨 ArtTechies (Artists)
+###  ArtTechies (Artists)
 
 A tech partner for artists — interactive installations, kinetics, and custom electronics.
 
-### 🧸 WowPlay (Toddlers)
+###  WowPlay (Toddlers)
 
 Playful, safe, and engaging toy concepts — made in India with love & giggles.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * HTML5
 * CSS3
@@ -47,7 +47,7 @@ No frameworks. No build tools. Just clean, readable code.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 /
@@ -65,7 +65,7 @@ No frameworks. No build tools. Just clean, readable code.
 
 ---
 
-## 🚧 Status
+##  Status
 
 This site is **actively under construction**.
 
@@ -73,7 +73,7 @@ Content, visuals, and case studies are being added incrementally.
 
 ---
 
-## 🤝 Get in Touch
+##  Get in Touch
 
 If you’d like to collaborate, work together, or just say hello:
 
