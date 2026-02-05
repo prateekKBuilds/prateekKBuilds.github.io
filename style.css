@@ -408,7 +408,6 @@ footer a {
 }
 
 
-/* UNDER CONSTRUCTION BANNER */
 .under-construction {
   position: fixed;
   top: 0;
@@ -422,10 +421,12 @@ footer a {
   font-weight: 500;
   z-index: 9999;
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 
-/* Push content down so it doesn't hide */
-body {
-  padding-top: 40px;
+/* subtle hover cue */
+.under-construction:hover {
+  opacity: 0.9;
 }
+
 
