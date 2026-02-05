@@ -406,3 +406,26 @@ footer a {
   transform: translateY(-2px);
   opacity: 0.85;
 }
+
+
+/* UNDER CONSTRUCTION BANNER */
+.under-construction {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #f4c430;
+  color: #000;
+  text-align: center;
+  padding: 0.6rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  z-index: 9999;
+  letter-spacing: 0.03em;
+}
+
+/* Push content down so it doesn't hide */
+body {
+  padding-top: 40px;
+}
+
