@@ -6,7 +6,7 @@ Live at: [https://prateekKBuilds.github.io](https://prateekKBuilds.github.io)
 
 ---
 
-##  About 
+##  About
 
 This repository hosts my personal portfolio built with **HTML, CSS, and JavaScript**, deployed using **GitHub Pages**.
 
